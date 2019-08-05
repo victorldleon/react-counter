@@ -19,14 +19,14 @@ class Counter extends Component {
         <div className="counter-container">
           <button
             type="button"
-            class="btn btn-outline-secondary btn-sm m-1"
+            className="btn btn-outline-secondary btn-sm m-1"
             onClick={this.handleIncrement}
           >
             +
           </button>
           <button
             type="button"
-            class="btn btn-outline-secondary btn-sm m-1"
+            className="btn btn-outline-secondary btn-sm m-1"
             onClick={this.handleDecrement}
           >
             -

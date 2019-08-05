@@ -8,7 +8,7 @@
 
 .form-container {
   margin: 10vh auto;
-  width: 40vh;
+  width: 70vh;
 }
 
 .logo {
@@ -33,6 +33,6 @@
 .counter-container .btn {
   font-weight: bold;
   font-size: 1em;
-  height: 6vh;
-  width: 6vh;
+  height: 9.5vh;
+  width: 9.5vh;
 }
